@@ -1,0 +1,19 @@
+{
+  "name": "basic-info-site",
+  "version": "1.0.0",
+  "description": "basic informational site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximkwski/basic-info-site.git"
+  },
+  "author": "maximkwski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximkwski/basic-info-site/issues"
+  },
+  "homepage": "https://github.com/maximkwski/basic-info-site#readme"
+}
