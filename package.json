@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maximkwski/basic-info-site/issues"
   },
-  "homepage": "https://github.com/maximkwski/basic-info-site#readme"
+  "homepage": "https://github.com/maximkwski/basic-info-site#readme",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
 }
