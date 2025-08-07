@@ -2,6 +2,10 @@
 
 A simple portfolio website built with Node.js as part of [The Odin Project](https://www.theodinproject.com/) curriculum. This project demonstrates fundamental web development concepts including server-side routing, static file serving, and responsive design.
 
+## 🌐 Live Demo
+
+https://basic-info-site-maximkwskis-projects.vercel.app/
+
 ## 🚀 Features
 
 - **Custom Node.js server** without frameworks
