@@ -1,0 +1,27 @@
+{
+    "version": 2,
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "/public/index.html"
+        },
+        {
+            "source": "/about",
+            "destination": "/public/about.html"
+        },
+        {
+            "source": "/contact-me",
+            "destination": "/public/contact-me.html"
+        }
+    ],
+    "routes": [
+        {
+            "handle": "filesystem"
+        },
+        {
+            "src": "/(.*)",
+            "status": 404,
+            "dest": "/public/404.html"
+        }
+    ]
+}

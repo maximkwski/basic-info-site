@@ -4,19 +4,12 @@ A simple portfolio website built with Node.js as part of [The Odin Project](http
 
 ## 🚀 Features
 
-- **Custom Node.js server** without frameworks
+- **Custom Node.js server** using Express.js
 - **Responsive design** that works on all devices
 - **Multiple pages** with smooth navigation
 - **Clean, minimalistic styling**
 - **404 error handling**
 - **Static file serving** for CSS, images, and other assets
-
-## 🛠️ Technologies Used
-
-- Node.js
-- HTML5
-- CSS3
-- Vanilla JavaScript
 
 ## 📦 Installation & Setup
 
@@ -41,28 +34,3 @@ A simple portfolio website built with Node.js as part of [The Odin Project](http
    ```
    http://localhost:5000
    ```
-
-## 📁 Project Structure
-
-```
-basic-informational-site/
-├── index.js              # Main server file
-├── public/               # Static files
-│   ├── index.html        # Home page
-│   ├── about.html        # About page
-│   ├── contact-me.html   # Contact page
-│   ├── 404.html          # Error page
-│   └── styles/
-│       └── style.css     # Main stylesheet
-└── README.md
-```
-
-## 🎯 Learning Objectives
-
-This project helped me understand:
-
-- Creating a basic HTTP server with Node.js
-- Serving static files and handling routes
-- Implementing clean, responsive CSS
-- File system operations in Node.js
-- Error handling and 404 pages
